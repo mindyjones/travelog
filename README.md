@@ -12,6 +12,7 @@
 
 ## To Do
 * [x] Improve UI/UX
+* [x] Deployment
 * [ ] Add more pages
 * [ ] Develop a full MERN Application
 
