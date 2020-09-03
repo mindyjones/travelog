@@ -2,16 +2,18 @@ import React, { useState } from "react";
 
 const UploadForm = () => {
   const [file, setFile] = useState(null);
-  const types = ["image/png", "image/jpg"];
+  const types = ["image/png", "image/jpg", "image/jpeg"];
   const [error, setError] = useState(null);
 
   const changeHandler = (e) => {
     let selected = e.target.files[0];
     if (selected && types.includes(selected.type)) {
+      //   console.log(selected);
       setFile(selected);
       setError("");
     } else {
       setFile(null);
+      //   console.log(selected);
       setError("Please select an image file (png or jpeg)");
     }
   };
