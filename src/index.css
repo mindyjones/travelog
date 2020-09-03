@@ -11,20 +11,23 @@ body {
   font-family: "Noto Serif";
   color: var(--secondary);
 }
+
 .App {
   max-width: 960px;
   margin: 0 auto;
 }
+
 .title h1 {
   color: var(--primary);
   font-size: 1.2rem;
   letter-spacing: 2px;
   font-weight: normal;
 }
-.title h2,
-.title p {
+
+.title h2, .title h3, .title p {
   text-align: center;
 }
+
 .title h2 {
   margin-top: 60px;
   font-size: 2.6rem;
@@ -35,11 +38,13 @@ form {
   margin: 30px auto 10px;
   text-align: center;
 }
+
 label input {
   height: 0;
   width: 0;
   opacity: 0;
 }
+
 label {
   display: block;
   width: 30px;
@@ -52,14 +57,17 @@ label {
   font-weight: bold;
   font-size: 24px;
 }
+
 label:hover {
   background: var(--primary);
   color: white;
 }
+
 .output {
   height: 60px;
   font-size: 0.8rem;
 }
+
 .error {
   color: var(--error);
 }
@@ -78,6 +86,7 @@ label:hover {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 40px;
 }
+
 .img-wrap {
   overflow: hidden;
   height: 0;
@@ -86,6 +95,7 @@ label:hover {
   position: relative;
   opacity: 0.8;
 }
+
 .img-wrap img {
   min-width: 100%;
   min-height: 100%;
