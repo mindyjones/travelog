@@ -2,6 +2,8 @@
 
 ## Tech Used
 * ReactJs
+    * Hooks
+    * Framer Motion
 * Firebase
     * Database - Cloud Firestore
     * Storage 
