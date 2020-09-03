@@ -1,12 +1,12 @@
 # Travelog
 
 - A web application (similar to Flickr) for travel enthusiast to share travel photos online.
-- The spcial purpose of this website, is to encourage people to live more in the moment rather stay busy capturing images during travel.
+- The special purpose of this website, is to encourage people to live more in the moment rather stay busy capturing images during travel.
 
 ## Tech Used
 
 - ReactJs (Use of Hooks, Framer Motion for animations, States, Props and List Rendering)
-- Firebase (Use of Storage and Database as Cloud Firestore)
+- Firebase (Use of Database (Cloud Firestore) and Storage)
 - CSS
 - HTML
 
