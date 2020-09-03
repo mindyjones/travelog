@@ -1,17 +1,11 @@
 # FireGram
 
 ## Tech Used
-* ReactJs
-    * Hooks
-    * Framer Motion
-* Firebase
-    * Database - Cloud Firestore
-    * Storage 
-* CSS
-* HTML
 
-
-
+- ReactJs (Use of Hooks, Framer Motion for animations, States, Props and List Rendering)
+- Firebase (Use of Storage and Database as Cloud Firestore)
+- CSS
+- HTML
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
