@@ -3,22 +3,13 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/87c4746c-8220-474a-8fe3-92d9e4b20e92/deploy-status)](https://app.netlify.com/sites/nervous-fermi-a5a898/deploys)
 
 - A web application (similar to Flickr) for travel enthusiast to share travel photos online.
-- The special purpose of this website, is to encourage people to live more in the moment rather stay busy capturing images during travel.
 - Visit - [Travelog](https://nervous-fermi-a5a898.netlify.app)
 
 ## Tech Used
 
-- ReactJs (Use of Hooks, Framer Motion for Animations, States, Props and List Rendering)
-- Firebase (Use of Database (Cloud Firestore) and Storage)
-- CSS
-- HTML
-
-## To Do
-
-- [x] Improve UI/UX
-- [x] Deployment
-- [ ] Add more pages
-- [ ] Develop a full MERN Application
+- JavaScript
+- React (Use of Hooks, Framer Motion for Animations, States, Props and List Rendering)
+- Firebase (Use of Cloud Firestore and Storage)
 
 ---
 
